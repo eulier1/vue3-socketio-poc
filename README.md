@@ -1,6 +1,6 @@
-# vue2-socketio-poc
+# vue3-socketio-poc
 
-Proof of concepts with socket-io with Vue 2 and [vue-socket.io-extended](https://github.com/probil/vue-socket.io-extended)
+Proof of concepts with socket-io with Vue 2 and [vue-socket.io-extended](https://github.com/probil/vue-socket.io-extended/tree/alpha)
 
 ## Project setup
 
